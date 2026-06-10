@@ -186,10 +186,6 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
-file = "mods/cwb-neoforge-3.0.0+mc1.21.jar"
-hash = "be7144647bc160858e659f6793fcce993914443b9256c2df0369b1c616a2a5d4"
-
-[[files]]
 file = "mods/deeperdarker-neoforge-1.21.1-1.4.jar"
 hash = "1ab9be467644c31fba6231089a44f8173ffda21aaa7e5360358ae1b03a5b55e2"
 
