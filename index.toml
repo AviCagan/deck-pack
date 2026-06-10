@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/bocchud.pw.toml"
-hash = "857ff4dcfbc2034e73f5fd5b41e24868388bb5f1c09d22f4a433e39056dfa3db"
+hash = "d5091652ed4b72948df514beaf0e688792cb5a4be54bfb33872394b3809bbcba"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "de6f8baf05357d0561e7fee40a5ff1149d30005f32ed88879056709263698dfc"
+hash = "b6b72d55f2a14573942d3b4fb261f1b3776ea7acc0f94fdbdb4d349e156c021c"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+hash = "8da46348495ee032dbac80374ff4691351e41dfee9957dc27811e0957fe13e4e"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+hash = "09c393b303130cefffc1c376ddfdeb869b20db31d3d42d9fa155e13cfc628645"
 metafile = true
 
 [[files]]
