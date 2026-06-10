@@ -173,6 +173,11 @@ file = "mods/crittersandcompanions-neoforge-1.21.1-2.3.4.jar"
 hash = "4520de01496893d5cb80faaaeadf67b03481ebe769e11caffaa02bb12fe3bcd1"
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "c0788e2fde5c68eb046fcdf14ad0e4882325c8a4988a67eb3631d752b509b762"
+metafile = true
+
+[[files]]
 file = "mods/cupboard-1.21-3.5.jar"
 hash = "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db"
 
