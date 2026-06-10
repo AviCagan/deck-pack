@@ -1,0 +1,13 @@
+name = "DaCaganFam"
+author = "AviC"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "712690e589f25b593074f9d4c54f891c06e3203e2c1ee0d2fcf4789d7c6b5167"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
