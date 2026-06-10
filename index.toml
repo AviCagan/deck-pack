@@ -134,10 +134,6 @@ file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
 hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
 
 [[files]]
-file = "mods/create-1.21.1-6.0.10.jar"
-hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
-
-[[files]]
 file = "mods/create-aeronautics-bundled-1.21.1-1.1.0.jar"
 hash = "bb813d6fa1a52b1fef7b8d47a6fab16c6be063d9d7cf3fd41d9c948e4df93cbd"
 
@@ -152,6 +148,11 @@ hash = "304bec94c91e73538cac6516ca3ef7722625764686830357e8cbb6bc21dd4606"
 [[files]]
 file = "mods/create-gunsmithing-1.21.1-1.4.6.jar"
 hash = "b47c67610909b59ef8d0451514e0dd4fc133f1b0e7d8a32f7ac62f1f8ef6d80c"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
 
 [[files]]
 file = "mods/create_power_loader-2.0.3-mc1.21.1.jar"
