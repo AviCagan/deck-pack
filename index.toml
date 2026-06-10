@@ -117,8 +117,9 @@ file = "mods/blockui-1.0.211-1.21.1-snapshot.jar"
 hash = "5dfffc80c057b4d36123bd5f5cad9f32f86896a9dd993ea4a3ecad315cabd77e"
 
 [[files]]
-file = "mods/bocchud-0.4.1+mc1.21.1.jar"
-hash = "d1ebb811309048e0d92b9de5b3c0a12b172918a7d9f576eb2ecb548c18bb148c"
+file = "mods/bocchud.pw.toml"
+hash = "d5091652ed4b72948df514beaf0e688792cb5a4be54bfb33872394b3809bbcba"
+metafile = true
 
 [[files]]
 file = "mods/citadel-2.7.0-1.21.1.jar"
