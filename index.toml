@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/pack_fixes.js"
+hash = "e2d0310ed01421cc5a0b306e0df8766d3a5c0ca29d004ddba5f6f586e5742684"
+
+[[files]]
 file = "mods/AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar"
 hash = "c062dbc2399089666fb601611b3bf73fd29bef61433b0542e7d2e7286af93996"
 
