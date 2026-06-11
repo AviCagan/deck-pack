@@ -1,3 +1,4 @@
+//v2
 ServerEvents.recipes(event => {
   // XP nuggets → Liquid Experience on a plain Item Drain
   // (same 3 mB/nugget as CEI's grindstone recipe — Sable workaround)
