@@ -1,0 +1,13 @@
+name = "PlayerName Styler"
+filename = "playernamestyler-2.0.3-mc1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YeqRouX2/versions/grQoBXOC/playernamestyler-2.0.3-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "8f3dbfb65b616afed2da07d975f0a16a4a009d1726490be91d96c4a18c18be920c3cfd8cf3968ce907e41516f85b9a15e1e6ea2f60d180538d2b4b53e2d2abd5"
+
+[update]
+[update.modrinth]
+mod-id = "YeqRouX2"
+version = "grQoBXOC"

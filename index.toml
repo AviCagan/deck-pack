@@ -297,6 +297,11 @@ file = "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
 hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
 
 [[files]]
+file = "mods/playername-styler.pw.toml"
+hash = "b99e68f87623e750f8f7959af588786910257364c1d9fcc3c2d0cf9efa40e7bf"
+metafile = true
+
+[[files]]
 file = "mods/raidsenhanced-1.0.2-1.21.1.jar"
 hash = "8aeca14f0de4fdf2086200621013509a7e6e78e865c68cd88a09d481c21a7881"
 
@@ -356,11 +361,6 @@ hash = "989d1308cc663cb56008802c248567a17d9c7832628fc62cd0f606ee9268ca42"
 [[files]]
 file = "mods/structurize-1.0.822-1.21.1-snapshot.jar"
 hash = "aa851d2c6edfa87128064f45c3a489df70a21dd7add14fca6ffa9a25c5a0e1db"
-
-[[files]]
-file = "mods/styled-nicknames-unofficial-neoforge.pw.toml"
-hash = "a05fab22efac8380044afb11b3cec5f9162a41331dcf321c52c5f136aeeb2f14"
-metafile = true
 
 [[files]]
 file = "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
