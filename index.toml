@@ -358,6 +358,11 @@ file = "mods/structurize-1.0.822-1.21.1-snapshot.jar"
 hash = "aa851d2c6edfa87128064f45c3a489df70a21dd7add14fca6ffa9a25c5a0e1db"
 
 [[files]]
+file = "mods/styled-nicknames-unofficial-neoforge.pw.toml"
+hash = "a05fab22efac8380044afb11b3cec5f9162a41331dcf321c52c5f136aeeb2f14"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
 hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
 
