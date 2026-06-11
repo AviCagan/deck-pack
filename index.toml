@@ -130,6 +130,11 @@ file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
 hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "31411fced67d5b743f6cd1ce2be55e4bce428de8df2fe38c6a39097099da5e4f"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-bundled-1.21.1-1.1.0.jar"
 hash = "bb813d6fa1a52b1fef7b8d47a6fab16c6be063d9d7cf3fd41d9c948e4df93cbd"
 
@@ -314,6 +319,11 @@ hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
 [[files]]
 file = "mods/sable-neoforge-1.21.1-1.1.1.jar"
 hash = "bdd0f60743ab9be006de8b959765d9a0e59df493ad2a11093ef7c37c61969368"
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "64bb9f1e36366e9f3fd617b765b5708a7aeb30d33b4ab04cd5f1361f9acc1c85"
+metafile = true
 
 [[files]]
 file = "mods/shellbound_for_airship-1.0.0-neoforge.jar"
