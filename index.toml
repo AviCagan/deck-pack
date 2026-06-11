@@ -249,6 +249,11 @@ file = "mods/kotlinforforge-5.11.0-all.jar"
 hash = "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1"
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
 file = "mods/letsdo-bakery-neoforge-2.1.6.jar"
 hash = "bfe7f9b3ea104fb68303d49b7cda0876520a5504067b2ba0293965474aaef649"
 
@@ -316,6 +321,11 @@ hash = "3316acf7af3a250fd0f2fa5c39540ee4e81c21f7ead29c4107d6a95f47642dd2"
 [[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
 hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
 
 [[files]]
 file = "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
