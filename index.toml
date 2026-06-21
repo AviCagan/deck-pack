@@ -97,6 +97,16 @@ file = "mods/architectury-13.0.8-neoforge.jar"
 hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "7e45222cd22baa7eaca2372b65b439b7d23a84cd36e046eb531f8b88c3c58c22"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "4f77f7db6cee2406112360cba14e25a0992124a0be367401f142d30bb39a4ecc"
+metafile = true
+
+[[files]]
 file = "mods/ars_nouveau-1.21.1-5.11.3.jar"
 hash = "91f5e1556957ebe204d6c6818ebdf0dc56ce03ad9ad01ecbf6f6bb0154dfbb37"
 
@@ -147,16 +157,36 @@ file = "mods/create-central-kitchen-2.3.0.jar"
 hash = "a8c50d7f355c4189a389c7d36400b3b53175ff7922c33e36062577e9c707e6a3"
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-2.3.0.jar"
 hash = "304bec94c91e73538cac6516ca3ef7722625764686830357e8cbb6bc21dd4606"
+
+[[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
+metafile = true
 
 [[files]]
 file = "mods/create-gunsmithing-1.21.1-1.4.6.jar"
 hash = "b47c67610909b59ef8d0451514e0dd4fc133f1b0e7d8a32f7ac62f1f8ef6d80c"
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -290,6 +320,11 @@ file = "mods/modernfix-neoforge-5.27.2+mc1.21.1.jar"
 hash = "196877bae4f69efc95e2fa41a47369784803ee99fb99461849684bdaeacd38b6"
 
 [[files]]
+file = "mods/nemos-inventory-sorting.pw.toml"
+hash = "5e66b70ada740b7816342de681bb39ee097c313e1aa40de42ab7bd6df36c9685"
+metafile = true
+
+[[files]]
 file = "mods/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar"
 hash = "ec941215d8b14ccf2927e5c80304511d6340d6025fec7212fcdb3fb2ef00a61c"
 
@@ -308,6 +343,11 @@ hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
 [[files]]
 file = "mods/playername-styler.pw.toml"
 hash = "b99e68f87623e750f8f7959af588786910257364c1d9fcc3c2d0cf9efa40e7bf"
+metafile = true
+
+[[files]]
+file = "mods/ragdoll-reactions.pw.toml"
+hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
 metafile = true
 
 [[files]]
@@ -338,6 +378,16 @@ hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
 [[files]]
 file = "mods/sable-neoforge-1.21.1-1.1.1.jar"
 hash = "bdd0f60743ab9be006de8b959765d9a0e59df493ad2a11093ef7c37c61969368"
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
+hash = "fe14391e73d2d18ccd52bc9ddd3fe98127568355d8c5f7726004344a45d13209"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
@@ -373,6 +423,11 @@ file = "mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar"
 hash = "989d1308cc663cb56008802c248567a17d9c7832628fc62cd0f606ee9268ca42"
 
 [[files]]
+file = "mods/spotlights-or-something.pw.toml"
+hash = "d73511c291c619293c0cd2a8529b29405da3fb5823ca7ba5b215b4832daf8883"
+metafile = true
+
+[[files]]
 file = "mods/structurize-1.0.822-1.21.1-snapshot.jar"
 hash = "aa851d2c6edfa87128064f45c3a489df70a21dd7add14fca6ffa9a25c5a0e1db"
 
@@ -395,3 +450,8 @@ hash = "5358b7f5a667fe150e9057b30a59744367caadc500f0b3afaa2c375ea6200728"
 [[files]]
 file = "mods/twilightforest-1.21.1-4.8.3345-universal.jar"
 hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
+
+[[files]]
+file = "mods/zoomlens.pw.toml"
+hash = "3ca7cca2c29962f6698623506966fde1e4b2ea3153743edce5d2728cbd7aa2fd"
+metafile = true
