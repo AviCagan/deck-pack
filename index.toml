@@ -351,11 +351,6 @@ hash = "b99e68f87623e750f8f7959af588786910257364c1d9fcc3c2d0cf9efa40e7bf"
 metafile = true
 
 [[files]]
-file = "mods/ragdoll-reactions.pw.toml"
-hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
-metafile = true
-
-[[files]]
 file = "mods/raidsenhanced-1.0.2-1.21.1.jar"
 hash = "8aeca14f0de4fdf2086200621013509a7e6e78e865c68cd88a09d481c21a7881"
 
