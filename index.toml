@@ -321,7 +321,7 @@ hash = "196877bae4f69efc95e2fa41a47369784803ee99fb99461849684bdaeacd38b6"
 
 [[files]]
 file = "mods/nemos-inventory-sorting.pw.toml"
-hash = "5e66b70ada740b7816342de681bb39ee097c313e1aa40de42ab7bd6df36c9685"
+hash = "fdf4ea21466a92d1c6616fa5dd0a575294fd93a8c3bbb27ea67f800d6c66637d"
 metafile = true
 
 [[files]]
@@ -413,6 +413,11 @@ hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
 [[files]]
 file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
 hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
+metafile = true
 
 [[files]]
 file = "mods/sophisticatedcore-1.21.1-1.4.25.1696.jar"
