@@ -380,11 +380,6 @@ file = "mods/sable-neoforge-1.21.1-1.1.1.jar"
 hash = "bdd0f60743ab9be006de8b959765d9a0e59df493ad2a11093ef7c37c61969368"
 
 [[files]]
-file = "mods/sable-ragdolls.pw.toml"
-hash = "fe14391e73d2d18ccd52bc9ddd3fe98127568355d8c5f7726004344a45d13209"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
