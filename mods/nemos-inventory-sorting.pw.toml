@@ -1,0 +1,13 @@
+name = "Nemo's Inventory Sorting"
+filename = "nemos-inventory-sorting-NeoForge-1.21.3-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JHgf35QL/versions/6jnJzvjg/nemos-inventory-sorting-NeoForge-1.21.3-1.2.jar"
+hash-format = "sha512"
+hash = "c17263b2a49082ea83943a68570a6f47de10d624d108535f851d82f2e3b2214d4da1adbd28b8c8602354e58bebd78952212d4690cde9d960f8001a18abde52c1"
+
+[update]
+[update.modrinth]
+mod-id = "JHgf35QL"
+version = "6jnJzvjg"
