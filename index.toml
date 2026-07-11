@@ -511,6 +511,11 @@ hash = "64bb9f1e36366e9f3fd617b765b5708a7aeb30d33b4ab04cd5f1361f9acc1c85"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "d318efaa5190d251642c7a6de7f327a35d32a587bc72ec2c180603e72563c9e7"
+metafile = true
+
+[[files]]
 file = "mods/shellbound_for_airship-1.0.0-neoforge.jar"
 hash = "15612c51152679ebeaad165228a31133235b9336e40905d10f2b7d5204e24626"
 
