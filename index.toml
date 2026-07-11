@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -352,6 +352,11 @@ hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
 hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
+metafile = true
 
 [[files]]
 file = "mods/kotlinforforge-5.11.0-all.jar"
@@ -487,8 +492,9 @@ file = "mods/silent-lib-1.21.1-neoforge-10.6.0.jar"
 hash = "e5676f940802af3b7f2c393dc6c74d6c68d657efca4135478c5b54ced06950d1"
 
 [[files]]
-file = "mods/sliceanddice-forge-4.2.4.jar"
-hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
+file = "mods/slice-and-dice.pw.toml"
+hash = "95ac868355ac97c74762a7f5295aa618bc9f67fb6b1ab1009f6a0d9c42efeae2"
+metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
