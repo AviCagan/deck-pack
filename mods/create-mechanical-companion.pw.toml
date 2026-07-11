@@ -1,0 +1,13 @@
+name = "Create: Mechanical Companion"
+filename = "createmechanicalcompanion-1.9-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "480d35a7f926c1a2b86521be1feb75710b1c838e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7978289
+project-id = 1264989
