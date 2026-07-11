@@ -81,6 +81,10 @@ file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
 [[files]]
+file = "mods/VistaAeronauricsFix-1.0.1.jar"
+hash = "6c64cc1448f9832350ac6d3cbd57a17bae893110f82adc2a502a0bfd5e8d3b6e"
+
+[[files]]
 file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
 hash = "b19386301560a017a458e9790a7b59999e270f93010def0b61e7cbe4c8630dbf"
 
@@ -573,11 +577,6 @@ hash = "5358b7f5a667fe150e9057b30a59744367caadc500f0b3afaa2c375ea6200728"
 [[files]]
 file = "mods/twilightforest-1.21.1-4.8.3345-universal.jar"
 hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
-
-[[files]]
-file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
-metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
