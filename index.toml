@@ -81,10 +81,6 @@ file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
 [[files]]
-file = "mods/VistaAeronauricsFix-1.0.1.jar"
-hash = "6c64cc1448f9832350ac6d3cbd57a17bae893110f82adc2a502a0bfd5e8d3b6e"
-
-[[files]]
 file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
 hash = "b19386301560a017a458e9790a7b59999e270f93010def0b61e7cbe4c8630dbf"
 
@@ -438,6 +434,11 @@ hash = "55d8250e6c4fd20af855d2b9e09c68e7a06c185c519ca923748ff41a551c4406"
 [[files]]
 file = "mods/modernfix-neoforge-5.27.2+mc1.21.1.jar"
 hash = "196877bae4f69efc95e2fa41a47369784803ee99fb99461849684bdaeacd38b6"
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
+metafile = true
 
 [[files]]
 file = "mods/nemos-inventory-sorting.pw.toml"
