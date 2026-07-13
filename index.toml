@@ -720,6 +720,10 @@ hash = "ac47c20d97ad6eec049684f3accf4552d96c73e28fe9404cf3dcc7bbeb9b5237"
 metafile = true
 
 [[files]]
+file = "mods/voxy-neoforge-0.2.1.jar"
+hash = "b19aeda829f13e15f43b1dcf477723ad137d9c4c72def1e40e41254e0947bf07"
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
