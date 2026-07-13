@@ -81,12 +81,22 @@ file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
+metafile = true
+
+[[files]]
 file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
 hash = "b19386301560a017a458e9790a7b59999e270f93010def0b61e7cbe4c8630dbf"
 
 [[files]]
 file = "mods/alexsmobs-1.22.17.jar"
 hash = "6e502855f79e4c9f2a11d560a9b88a3ab295aa378c44b0f0a0dd95f95d0301a6"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
 
 [[files]]
 file = "mods/appliedenergistics2-19.2.17.jar"
@@ -128,12 +138,22 @@ file = "mods/badpackets-neo-0.8.2.jar"
 hash = "6e97bf8c2a66df484e8c100a1fc1b615b8beac70ec44f4c3bc07bb672dcd54c6"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "dd4f7fa317d9d64f1e04350c95b7bfd566eda25a48f243704c7d92cf015f1b57"
+metafile = true
+
+[[files]]
 file = "mods/blockui-1.0.211-1.21.1-snapshot.jar"
 hash = "5dfffc80c057b4d36123bd5f5cad9f32f86896a9dd993ea4a3ecad315cabd77e"
 
 [[files]]
 file = "mods/bocchud.pw.toml"
 hash = "d5091652ed4b72948df514beaf0e688792cb5a4be54bfb33872394b3809bbcba"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
@@ -193,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
 hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
+metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
@@ -297,6 +322,11 @@ file = "mods/createpropulsion-1.1.4.jar"
 hash = "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
+metafile = true
+
+[[files]]
 file = "mods/crittersandcompanions-neoforge-1.21.1-2.3.4.jar"
 hash = "4520de01496893d5cb80faaaeadf67b03481ebe769e11caffaa02bb12fe3bcd1"
 
@@ -325,6 +355,11 @@ hash = "1ab9be467644c31fba6231089a44f8173ffda21aaa7e5360358ae1b03a5b55e2"
 [[files]]
 file = "mods/domum-ornamentum-1.0.231-main.jar"
 hash = "04c0c902bdbcbd48e38bee5a323907ae0b7b7db4ff4a3e4da7c45334b65610a1"
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
+metafile = true
 
 [[files]]
 file = "mods/enderio-8.2.6-beta.jar"
@@ -377,6 +412,11 @@ file = "mods/guideme-21.1.15.jar"
 hash = "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7"
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
 metafile = true
@@ -393,6 +433,31 @@ metafile = true
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
 hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "8735b4a90a4c59db419973991b87ab294c12f7ba869a362ef87ec192ef379b0a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "f68d6d20d2f1ae3edb429736a46e63fb0a7c3828d876b927431697dd289ab138"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "f61a3526d323d232fbac74dedb5d89e07f45981db1c5a705c66dbe5da7507a68"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "1d81880c101c44c858e695066764f2b94a0da0cf00a8fbff432f7ea45f31cd27"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "ae8c2feb4f1731d7ddfcd0be96b5d6483a6cdc6f8afac9a810494fe167f884af"
+metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
@@ -437,12 +502,27 @@ file = "mods/minecolonies-1.1.1300-1.21.1-snapshot.jar"
 hash = "55d8250e6c4fd20af855d2b9e09c68e7a06c185c519ca923748ff41a551c4406"
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "2fb7e655ff6cd74cf4d97ce3cdb14c606e015ae3c59fa0a970deaddd990b6a80"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-neoforge-5.27.2+mc1.21.1.jar"
 hash = "196877bae4f69efc95e2fa41a47369784803ee99fb99461849684bdaeacd38b6"
 
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "ef5e19ba6a664e7d2b3d54723e3d3f05c0d9e987d807ecb899c1c2ba1a509519"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "56aaa078a6f7ee61eef9c6f3685ff44618bb2565d7d0ccd39c723a2659295e58"
 metafile = true
 
 [[files]]
@@ -492,6 +572,16 @@ hash = "b99e68f87623e750f8f7959af588786910257364c1d9fcc3c2d0cf9efa40e7bf"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
+metafile = true
+
+[[files]]
 file = "mods/raidsenhanced-1.0.2-1.21.1.jar"
 hash = "8aeca14f0de4fdf2086200621013509a7e6e78e865c68cd88a09d481c21a7881"
 
@@ -506,6 +596,11 @@ hash = "3316acf7af3a250fd0f2fa5c39540ee4e81c21f7ead29c4107d6a95f47642dd2"
 [[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
 hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
@@ -622,6 +717,11 @@ hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "ac47c20d97ad6eec049684f3accf4552d96c73e28fe9404cf3dcc7bbeb9b5237"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
