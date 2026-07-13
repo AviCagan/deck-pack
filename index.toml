@@ -676,11 +676,6 @@ hash = "bef778e49f1a0e4ff6ea3b484ded118844ae4396210e06ce795c5d1fdd9044d0"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "411be936c8db5e39300bcafaa7707b236d9a6bbaaf2171879b56b19d5ceea6ca"
-metafile = true
-
-[[files]]
 file = "mods/structurize-1.0.822-1.21.1-snapshot.jar"
 hash = "aa851d2c6edfa87128064f45c3a489df70a21dd7add14fca6ffa9a25c5a0e1db"
 
