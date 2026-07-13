@@ -357,11 +357,6 @@ file = "mods/domum-ornamentum-1.0.231-main.jar"
 hash = "04c0c902bdbcbd48e38bee5a323907ae0b7b7db4ff4a3e4da7c45334b65610a1"
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
-metafile = true
-
-[[files]]
 file = "mods/enderio-8.2.6-beta.jar"
 hash = "864f47eb0f75a049622840bbb499ba98a86021f92dadfa8a001ed5799b8dd924"
 
@@ -713,10 +708,6 @@ hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
 file = "mods/vista_tv.pw.toml"
 hash = "ac47c20d97ad6eec049684f3accf4552d96c73e28fe9404cf3dcc7bbeb9b5237"
 metafile = true
-
-[[files]]
-file = "mods/voxy-neoforge-0.2.1.jar"
-hash = "b19aeda829f13e15f43b1dcf477723ad137d9c4c72def1e40e41254e0947bf07"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
