@@ -162,6 +162,11 @@ hash = "72b8637f99298483016f7f7acc075462a88bbd60ef1b8b62a6c5eaf533bb8a82"
 metafile = true
 
 [[files]]
+file = "mods/calcmod-neoforged.pw.toml"
+hash = "b4c34d1e24af4e5c7f299991052149ec609ecd4eea3ab29524ff0dbafa8072a0"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "4b200d7009a78ce1d782d0b20585fcde46e6791bf23edf22a799a60729e924fd"
 metafile = true

@@ -1,0 +1,13 @@
+name = "CalcMod: NeoForged"
+filename = "calcmod-neoforged-1.4.2+neoforge.1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7uxk5PIo/versions/M1zFfB1p/calcmod-neoforged-1.4.2%2Bneoforge.1.21.1.jar"
+hash-format = "sha512"
+hash = "b4451ba2bd9a1ec29a5bea8a57792d7a79a9ada6ec52cb614ef0bed59515fc944376d44a7a7e3f3de1a246eff80aa673ad218a712b7d7837fc52d9c00ff0c595"
+
+[update]
+[update.modrinth]
+mod-id = "7uxk5PIo"
+version = "M1zFfB1p"
