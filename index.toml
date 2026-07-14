@@ -676,6 +676,11 @@ file = "mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar"
 hash = "989d1308cc663cb56008802c248567a17d9c7832628fc62cd0f606ee9268ca42"
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/spotlights-or-something.pw.toml"
 hash = "bef778e49f1a0e4ff6ea3b484ded118844ae4396210e06ce795c5d1fdd9044d0"
 metafile = true
