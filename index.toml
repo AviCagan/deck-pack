@@ -162,11 +162,6 @@ hash = "72b8637f99298483016f7f7acc075462a88bbd60ef1b8b62a6c5eaf533bb8a82"
 metafile = true
 
 [[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "a95a3fa95f9232f4ec7a32e579ca0d80f545e66618ad60821af59df7b5c50d2c"
-metafile = true
-
-[[files]]
 file = "mods/calcmod-neoforged.pw.toml"
 hash = "b4c34d1e24af4e5c7f299991052149ec609ecd4eea3ab29524ff0dbafa8072a0"
 metafile = true
