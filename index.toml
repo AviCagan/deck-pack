@@ -99,6 +99,11 @@ hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
+metafile = true
+
+[[files]]
 file = "mods/appliedenergistics2-19.2.17.jar"
 hash = "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"
 
@@ -291,6 +296,11 @@ hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
 metafile = true
 
 [[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "5426e7b1e7a895606d788cdc1d21915423bac84e5fed1ca62386e66b7ba1bec5"
+metafile = true
+
+[[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
@@ -302,12 +312,17 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
 file = "mods/create_power_loader-2.0.3-mc1.21.1.jar"
 hash = "31004286d41510b07e812912f8510696065f77be593098a163701d26d4ffe17d"
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
+metafile = true
 
 [[files]]
 file = "mods/createbigcannons-5.11.2-mc.1.21.1.jar"
@@ -410,6 +425,11 @@ hash = "6a65c222dae1d524c5dcf06a0ac759d3f6c6cef41f0e7b08be665d688d4105b0"
 [[files]]
 file = "mods/guideme-21.1.15.jar"
 hash = "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7"
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
+metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -732,6 +752,11 @@ hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "ac47c20d97ad6eec049684f3accf4552d96c73e28fe9404cf3dcc7bbeb9b5237"
+metafile = true
+
+[[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "c0baea5bb063b538875c25a66b6803f32560c353047d66ee1fdeb7ceddd7c9b5"
 metafile = true
 
 [[files]]
