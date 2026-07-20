@@ -167,6 +167,11 @@ hash = "72b8637f99298483016f7f7acc075462a88bbd60ef1b8b62a6c5eaf533bb8a82"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "1a611a71baaf48d69f2a0fd226bc302b766ba0f54feabea802e28d51a40879ef"
+metafile = true
+
+[[files]]
 file = "mods/calcmod-neoforged.pw.toml"
 hash = "b4c34d1e24af4e5c7f299991052149ec609ecd4eea3ab29524ff0dbafa8072a0"
 metafile = true
@@ -573,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/nemos-inventory-sorting.pw.toml"
 hash = "fdf4ea21466a92d1c6616fa5dd0a575294fd93a8c3bbb27ea67f800d6c66637d"
+metafile = true
+
+[[files]]
+file = "mods/noisiumed.pw.toml"
+hash = "f72390140bb3183c602ab8b0ec164a81b54320f36041e48d1b190d2cfd755ca5"
 metafile = true
 
 [[files]]
