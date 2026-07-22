@@ -1,6 +1,6 @@
 name = "Noisiumed"
 filename = "noisiumed-3.0.5-neoforge-1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

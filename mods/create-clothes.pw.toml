@@ -1,0 +1,13 @@
+name = "Create: Clothes"
+filename = "createclothes-1.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/htYLZ8Hw/versions/AaCECJnd/createclothes-1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "bc34af2e0626a76383cd5f22acd6220402eba273c1e2d7d93697e155a4cff602877e1f3a5a8cd244ce36ac7459a030aecff3483f4836dc4201ca75578d67c5f6"
+
+[update]
+[update.modrinth]
+mod-id = "htYLZ8Hw"
+version = "AaCECJnd"

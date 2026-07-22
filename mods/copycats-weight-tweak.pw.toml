@@ -1,0 +1,13 @@
+name = "Copycats: Weight Tweak"
+filename = "copycatsweighttweaker-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vc1eR44K/versions/WBkeYKtz/copycatsweighttweaker-1.1.1.jar"
+hash-format = "sha512"
+hash = "876650a06c74ee92f0588457ec2258673c54202d37a6d1ff0ed8ded244825245dda134e3d9b457490954405129584eb3df3b0c0e72149a9751b3de641096231e"
+
+[update]
+[update.modrinth]
+mod-id = "vc1eR44K"
+version = "WBkeYKtz"
