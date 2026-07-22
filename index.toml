@@ -433,11 +433,6 @@ file = "mods/createdieselgenerators-1.21.1-1.3.11.jar"
 hash = "8e5e0cb90cd1fd6336f22994d6c6a31dd56373096275b80910c6983a4dccc864"
 
 [[files]]
-file = "mods/createoplenty.pw.toml"
-hash = "f4b24e22e6168f8df906d222d8de0a31bec0263a3f5425344ee0736681655842"
-metafile = true
-
-[[files]]
 file = "mods/createpropulsion-1.1.4.jar"
 hash = "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
 
