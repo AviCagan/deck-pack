@@ -65,8 +65,8 @@ file = "mods/PlayerAnimationLibNeoforge-1.1.4+mc.1.21.1.jar"
 hash = "b0836ad98db1e614f1e62cb40d5943eb4ba7d51f298e4b3ad0746770364ab072"
 
 [[files]]
-file = "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
-hash = "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914"
+file = "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
+hash = "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
 
 [[files]]
 file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
@@ -127,8 +127,8 @@ hash = "4f77f7db6cee2406112360cba14e25a0992124a0be367401f142d30bb39a4ecc"
 metafile = true
 
 [[files]]
-file = "mods/ars_nouveau-1.21.1-5.11.3.jar"
-hash = "91f5e1556957ebe204d6c6818ebdf0dc56ce03ad9ad01ecbf6f6bb0154dfbb37"
+file = "mods/ars_nouveau-1.21.1-5.12.1.jar"
+hash = "b24412acce7303baf5c46bf4130ba6add5c349047a6dfc445e1add0cd8528fa2"
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
@@ -451,10 +451,6 @@ hash = "c0788e2fde5c68eb046fcdf14ad0e4882325c8a4988a67eb3631d752b509b762"
 metafile = true
 
 [[files]]
-file = "mods/cupboard-1.21-3.5.jar"
-hash = "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db"
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
 metafile = true
@@ -511,10 +507,6 @@ file = "mods/fusion-1.2.12-neoforge-mc1.21.1.jar"
 hash = "5961f78d85b7bd88205bc65c9f8182bc041646aa3579fa39810878d9b5b87c0c"
 
 [[files]]
-file = "mods/geckolib-neoforge-1.21.1-4.8.4.jar"
-hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
@@ -526,10 +518,6 @@ hash = "598781933726c596ac95a4dc960861af0746d5713a12fb8a05d4b8cef45ec48d"
 [[files]]
 file = "mods/gravestone-neoforge-1.21.1-1.0.35.jar"
 hash = "6a65c222dae1d524c5dcf06a0ac759d3f6c6cef41f0e7b08be665d688d4105b0"
-
-[[files]]
-file = "mods/guideme-21.1.15.jar"
-hash = "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -559,10 +547,6 @@ hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
 file = "mods/it-takes-a-pillage-continuation.pw.toml"
 hash = "59f143c0c7bc463e09ef4f6c6172e3e45208a1a4c01663d2a0a4637a4df3eb73"
 metafile = true
-
-[[files]]
-file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
-hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
 
 [[files]]
 file = "mods/jei.pw.toml"
