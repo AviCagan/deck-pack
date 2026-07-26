@@ -937,3 +937,48 @@ metafile = true
 file = "mods/zoomlens.pw.toml"
 hash = "2eb17b149207ac27c2e9ac9bcab31919b7e5b1ce4b1965275cda18143813e99d"
 metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "4761708dab1a755867b5dbfeb53ed0c7bebbd24c2263ac5508ff2124c188f321"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "2d1d35157a8f59f45691b0032c4a5b0420bd64ad5cd2ba6ee6bf5619be2aa33c"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "71f1ecc750bec538e2cef1a3b500292e03c059e095dd68eb9d6df840ac1c47ec"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "0ae4026487773aea05a4f3406bbd797b2f779f7ee7c5c03570616c8f3da7b648"
+metafile = true
+
+[[files]]
+file = "mods/mini-mob-trophy.pw.toml"
+hash = "c4b173dc213d8c6b6abef08744e04f16e28d889ecac5c6117f0fc8ac6732a418"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "820946bdfe1601830017a91f9a362969ba34d4495ce261e4b2564ae57cb801b3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-neoforge.pw.toml"
+hash = "a5e84f6e473432d0e8cd5bfc1f21de743a7dae1006be87d9c006a7307cc182ef"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-neoforge.pw.toml"
+hash = "e7d9ed2346a5e256fd64cc9d50c6be5aa5477f522398f40ad84647d6d29a2710"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-neoforge.pw.toml"
+hash = "7b383e67742ddcd38461d1aad7f3cff27e97e038a19d83378b1e4f392d1036a7"
+metafile = true

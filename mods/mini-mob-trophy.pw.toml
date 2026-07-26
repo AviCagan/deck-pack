@@ -1,0 +1,8 @@
+name = "Mini Mob Trophy"
+filename = "mini_mob_trophy-1.3.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "526f4df4ec2ba0022b006a8f29692e4d64cc736fa58a4194410c9f1ed1365d3caba37c7bec61d2cddc0db3fdfcbae19025049a15d1e571c2dad9adb00ac0db87"
+url = "https://cdn.modrinth.com/data/PjaOXcj3/versions/mrNOuP2n/mini_mob_trophy-1.3.4-neoforge-1.21.1.jar"
