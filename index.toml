@@ -983,22 +983,15 @@ file = "mods/ftb-teams-neoforge.pw.toml"
 hash = "7b383e67742ddcd38461d1aad7f3cff27e97e038a19d83378b1e4f392d1036a7"
 metafile = true
 
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "3d2d72fa59969b5e1cea23d746038a3bd0f1f2fff8319f47cf1a8856cd1a67c0"
-metafile = true
 
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "203560c8e7dc707af36a8ef3889de4ae5e717bc1132a8f58fe194d9f44df3aa7"
-metafile = true
 
-[[files]]
-file = "mods/create-sable-dynamic-lights.pw.toml"
-hash = "8aa309c4cfca17eefd349955ff932b905daf81f0d0f723772f0879b62188afa1"
-metafile = true
 
 [[files]]
 file = "mods/create-addictives.pw.toml"
 hash = "747a71359ec7a07246e2f76b3af3169c4f8b9c1fd2c350ba4dceb7b816d1eb3f"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "ce9fd408482acb76d6d9fcb9c76cbe77738300e94a135ae1b0fb663539a3c75c"
 metafile = true
