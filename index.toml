@@ -65,8 +65,8 @@ file = "mods/PlayerAnimationLibNeoforge-1.1.4+mc.1.21.1.jar"
 hash = "b0836ad98db1e614f1e62cb40d5943eb4ba7d51f298e4b3ad0746770364ab072"
 
 [[files]]
-file = "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
-hash = "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
+file = "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+hash = "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914"
 
 [[files]]
 file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
@@ -79,6 +79,11 @@ hash = "8bdbc98f32f4166061439e8dda346345012788ddebaeb743a3b585d8a0a0fbbc"
 [[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "2d1d35157a8f59f45691b0032c4a5b0420bd64ad5cd2ba6ee6bf5619be2aa33c"
+metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -127,8 +132,8 @@ hash = "4f77f7db6cee2406112360cba14e25a0992124a0be367401f142d30bb39a4ecc"
 metafile = true
 
 [[files]]
-file = "mods/ars_nouveau-1.21.1-5.12.1.jar"
-hash = "b24412acce7303baf5c46bf4130ba6add5c349047a6dfc445e1add0cd8528fa2"
+file = "mods/ars_nouveau-1.21.1-5.11.3.jar"
+hash = "91f5e1556957ebe204d6c6818ebdf0dc56ce03ad9ad01ecbf6f6bb0154dfbb37"
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
@@ -255,8 +260,18 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "71f1ecc750bec538e2cef1a3b500292e03c059e095dd68eb9d6df840ac1c47ec"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "31411fced67d5b743f6cd1ce2be55e4bce428de8df2fe38c6a39097099da5e4f"
+metafile = true
+
+[[files]]
+file = "mods/create-addictives.pw.toml"
+hash = "747a71359ec7a07246e2f76b3af3169c4f8b9c1fd2c350ba4dceb7b816d1eb3f"
 metafile = true
 
 [[files]]
@@ -451,6 +466,10 @@ hash = "c0788e2fde5c68eb046fcdf14ad0e4882325c8a4988a67eb3631d752b509b762"
 metafile = true
 
 [[files]]
+file = "mods/cupboard-1.21-3.5.jar"
+hash = "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db"
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
 metafile = true
@@ -503,8 +522,32 @@ file = "mods/framework-neoforge-1.21.1-0.13.11.jar"
 hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
 
 [[files]]
+file = "mods/ftb-library-neoforge.pw.toml"
+hash = "e7d9ed2346a5e256fd64cc9d50c6be5aa5477f522398f40ad84647d6d29a2710"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-neoforge.pw.toml"
+hash = "a5e84f6e473432d0e8cd5bfc1f21de743a7dae1006be87d9c006a7307cc182ef"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-neoforge.pw.toml"
+hash = "7b383e67742ddcd38461d1aad7f3cff27e97e038a19d83378b1e4f392d1036a7"
+metafile = true
+
+[[files]]
 file = "mods/fusion-1.2.12-neoforge-mc1.21.1.jar"
 hash = "5961f78d85b7bd88205bc65c9f8182bc041646aa3579fa39810878d9b5b87c0c"
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "820946bdfe1601830017a91f9a362969ba34d4495ce261e4b2564ae57cb801b3"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-neoforge-1.21.1-4.8.4.jar"
+hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -518,6 +561,10 @@ hash = "598781933726c596ac95a4dc960861af0746d5713a12fb8a05d4b8cef45ec48d"
 [[files]]
 file = "mods/gravestone-neoforge-1.21.1-1.0.35.jar"
 hash = "6a65c222dae1d524c5dcf06a0ac759d3f6c6cef41f0e7b08be665d688d4105b0"
+
+[[files]]
+file = "mods/guideme-21.1.15.jar"
+hash = "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -535,6 +582,11 @@ hash = "2d493d3343bb82fb448f107a7846e0cc14b06c8195cf8b6b42c445f2e1a6759b"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "0ae4026487773aea05a4f3406bbd797b2f779f7ee7c5c03570616c8f3da7b648"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
 metafile = true
@@ -547,6 +599,10 @@ hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
 file = "mods/it-takes-a-pillage-continuation.pw.toml"
 hash = "59f143c0c7bc463e09ef4f6c6172e3e45208a1a4c01663d2a0a4637a4df3eb73"
 metafile = true
+
+[[files]]
+file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
+hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
 
 [[files]]
 file = "mods/jei.pw.toml"
@@ -624,6 +680,11 @@ hash = "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
 [[files]]
 file = "mods/minecolonies-1.1.1300-1.21.1-snapshot.jar"
 hash = "55d8250e6c4fd20af855d2b9e09c68e7a06c185c519ca923748ff41a551c4406"
+
+[[files]]
+file = "mods/mini-mob-trophy.pw.toml"
+hash = "c4b173dc213d8c6b6abef08744e04f16e28d889ecac5c6117f0fc8ac6732a418"
+metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
@@ -723,6 +784,11 @@ file = "mods/rechiseled-1.2.4-neoforge-mc1.21.jar"
 hash = "3316acf7af3a250fd0f2fa5c39540ee4e81c21f7ead29c4107d6a95f47642dd2"
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "ce9fd408482acb76d6d9fcb9c76cbe77738300e94a135ae1b0fb663539a3c75c"
+metafile = true
+
+[[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
 hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 
@@ -780,6 +846,11 @@ hash = "0f20b6a48743555ff984357432064777c461290aadefb6be366f5ba8ad92257d"
 [[files]]
 file = "mods/silent-lib-1.21.1-neoforge-10.6.0.jar"
 hash = "e5676f940802af3b7f2c393dc6c74d6c68d657efca4135478c5b54ced06950d1"
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "4761708dab1a755867b5dbfeb53ed0c7bebbd24c2263ac5508ff2124c188f321"
+metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
@@ -936,62 +1007,4 @@ metafile = true
 [[files]]
 file = "mods/zoomlens.pw.toml"
 hash = "2eb17b149207ac27c2e9ac9bcab31919b7e5b1ce4b1965275cda18143813e99d"
-metafile = true
-
-[[files]]
-file = "mods/simple-hats.pw.toml"
-hash = "4761708dab1a755867b5dbfeb53ed0c7bebbd24c2263ac5508ff2124c188f321"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "2d1d35157a8f59f45691b0032c4a5b0420bd64ad5cd2ba6ee6bf5619be2aa33c"
-metafile = true
-
-[[files]]
-file = "mods/cosmetic-armor-reworked-forked.pw.toml"
-hash = "71f1ecc750bec538e2cef1a3b500292e03c059e095dd68eb9d6df840ac1c47ec"
-metafile = true
-
-[[files]]
-file = "mods/immersive-paintings.pw.toml"
-hash = "0ae4026487773aea05a4f3406bbd797b2f779f7ee7c5c03570616c8f3da7b648"
-metafile = true
-
-[[files]]
-file = "mods/mini-mob-trophy.pw.toml"
-hash = "c4b173dc213d8c6b6abef08744e04f16e28d889ecac5c6117f0fc8ac6732a418"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "820946bdfe1601830017a91f9a362969ba34d4495ce261e4b2564ae57cb801b3"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-neoforge.pw.toml"
-hash = "a5e84f6e473432d0e8cd5bfc1f21de743a7dae1006be87d9c006a7307cc182ef"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-neoforge.pw.toml"
-hash = "e7d9ed2346a5e256fd64cc9d50c6be5aa5477f522398f40ad84647d6d29a2710"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-neoforge.pw.toml"
-hash = "7b383e67742ddcd38461d1aad7f3cff27e97e038a19d83378b1e4f392d1036a7"
-metafile = true
-
-
-
-
-[[files]]
-file = "mods/create-addictives.pw.toml"
-hash = "747a71359ec7a07246e2f76b3af3169c4f8b9c1fd2c350ba4dceb7b816d1eb3f"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "ce9fd408482acb76d6d9fcb9c76cbe77738300e94a135ae1b0fb663539a3c75c"
 metafile = true
