@@ -442,8 +442,8 @@ hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
 metafile = true
 
 [[files]]
-file = "mods/crittersandcompanions-neoforge-1.21.1-2.6.2.jar"
-hash = "9ac35089802c1316c7f64d0ef277a700b7365155a986b79b7c90e75faf8b13a6"
+file = "mods/crittersandcompanions-neoforge-1.21.1-2.4.1.jar"
+hash = "b696a700bf7a927bd04a839b9dda2c1d6770177eb4c9bd8a943e84f6d5d499d1"
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d603b1fbfdbc5ec69848e5d3fde577259dedeb0f4fa8ca3261c24b4a31605639"
+hash = "a99ff76556593196826166a2c2f0ca9a25cb9663eaa097daec697843b569e7de"
 metafile = true
 
 [[files]]
