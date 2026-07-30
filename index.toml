@@ -439,9 +439,6 @@ file = "mods/createaddition.pw.toml"
 hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
-[[files]]
-file = "mods/createbigcannons-5.11.2-mc.1.21.1.jar"
-hash = "78ca4d427f1fd7990828c7fca0439c082daade5c8072ca720c9034539e3cf2e0"
 
 [[files]]
 file = "mods/createdieselgenerators-1.21.1-1.3.11.jar"
@@ -1008,3 +1005,7 @@ metafile = true
 file = "mods/zoomlens.pw.toml"
 hash = "2eb17b149207ac27c2e9ac9bcab31919b7e5b1ce4b1965275cda18143813e99d"
 metafile = true
+
+[[files]]
+file = "mods/createbigcannons-5.11.7+mc.1.21.1.jar"
+hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
