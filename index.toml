@@ -975,3 +975,13 @@ hash = "0d33c608c756ef5e293f1734403050d64c9651332a311e7aaf01370f40d9b1e3"
 [[files]]
 file = "mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar"
 hash = "a217ea21ccc8364e99d86777e519436bc7c94516df9737ad0103047e48a44717"
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "25515c6e09047c15725d1c06bd656b3571a460d209bfba5410995096f55d349e"
+metafile = true
+
+[[files]]
+file = "mods/linear-bearing.pw.toml"
+hash = "6b799a7829ed9bb602d45f2fc1a93ec7c489e98dd3e71ed46d85977267720326"
+metafile = true
