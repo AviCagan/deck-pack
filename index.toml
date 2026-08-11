@@ -312,11 +312,6 @@ hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
 metafile = true
 
 [[files]]
-file = "mods/create-cafe.pw.toml"
-hash = "afaabf661bca24c48b6efbdf21cd0583a914ddf86e44e8dc2d59f1a418d6e838"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen-2.5.0.jar"
 hash = "ef581fb9e62ffda6bf5e1c6854847f5e53fe7dd43adb4c1a318426481468afec"
 
