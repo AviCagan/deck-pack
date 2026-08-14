@@ -647,11 +647,6 @@ file = "mods/letsdo-vinery-neoforge-1.5.3.jar"
 hash = "d0348d1bbf15cd7f8ec5821457887240150d073fb5f612bc70f9517515225d10"
 
 [[files]]
-file = "mods/linear-bearing.pw.toml"
-hash = "6b799a7829ed9bb602d45f2fc1a93ec7c489e98dd3e71ed46d85977267720326"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
 metafile = true
