@@ -69,10 +69,6 @@ file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
 hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
 
 [[files]]
-file = "mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
-hash = "8bdbc98f32f4166061439e8dda346345012788ddebaeb743a3b585d8a0a0fbbc"
-
-[[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
@@ -93,6 +89,10 @@ hash = "b19386301560a017a458e9790a7b59999e270f93010def0b61e7cbe4c8630dbf"
 [[files]]
 file = "mods/alexsmobs-1.22.17.jar"
 hash = "6e502855f79e4c9f2a11d560a9b88a3ab295aa378c44b0f0a0dd95f95d0301a6"
+
+[[files]]
+file = "mods/ae2jeiintegration-1.2.1.jar"
+hash = "2989c5d762d3f14a58b4db6519daaff81e719dff3445a2b39328948ac23e548b"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
