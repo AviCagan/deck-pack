@@ -155,6 +155,10 @@ file = "mods/blockui-1.0.211-1.21.1-snapshot.jar"
 hash = "5dfffc80c057b4d36123bd5f5cad9f32f86896a9dd993ea4a3ecad315cabd77e"
 
 [[files]]
+file = "mods/blueprint-1.21.1-8.1.1.jar"
+hash = "6a60d361d6aaf61273b65036958a646ff05d9ecb22fc706074a7e886e55ec190"
+
+[[files]]
 file = "mods/bocchud.pw.toml"
 hash = "d5091652ed4b72948df514beaf0e688792cb5a4be54bfb33872394b3809bbcba"
 metafile = true
@@ -447,6 +451,10 @@ hash = "0d33c608c756ef5e293f1734403050d64c9651332a311e7aaf01370f40d9b1e3"
 [[files]]
 file = "mods/createpropulsion-1.1.5.jar"
 hash = "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1"
+
+[[files]]
+file = "mods/creaturefeature-1.2.3.3.jar"
+hash = "2a19a8efe71b4a09575e7ce6344b0b91a8e2bb41a9679e02b1791d3ac8246e56"
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
@@ -770,6 +778,10 @@ hash = "b99e68f87623e750f8f7959af588786910257364c1d9fcc3c2d0cf9efa40e7bf"
 metafile = true
 
 [[files]]
+file = "mods/powergrid-mc1.21.1-0.6.1.jar"
+hash = "b2835c36af6794a963737c617b5f9dd6b41aba5078d418c88847193fbcf702e5"
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -852,6 +864,10 @@ hash = "15612c51152679ebeaad165228a31133235b9336e40905d10f2b7d5204e24626"
 file = "mods/simple-hats.pw.toml"
 hash = "4761708dab1a755867b5dbfeb53ed0c7bebbd24c2263ac5508ff2124c188f321"
 metafile = true
+
+[[files]]
+file = "mods/simulatedcoasters-0.1.5.jar"
+hash = "f80b4c3cdf9fa6188804967147761b0373e150a6eadbdc53626e5ac9700b2049"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
