@@ -534,17 +534,17 @@ hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
 
 [[files]]
 file = "mods/ftb-library-neoforge.pw.toml"
-hash = "d48384e356919c7b714ea5591d1205669b1c7603a8a3a1e800823c872290707a"
+hash = "3f25805048392b72051c0cafeaf96402ee92428c7886ae6285c554661d8ac10e"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-neoforge.pw.toml"
-hash = "18203d0cb7fe14f2b1e7930c3ce0f4a707b94ff7273843d412d853a832c01bdc"
+hash = "9c86983845f296a0be6338d16ab3a8ace4c7e73718062bcda7af866e25733373"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-neoforge.pw.toml"
-hash = "7b383e67742ddcd38461d1aad7f3cff27e97e038a19d83378b1e4f392d1036a7"
+hash = "a38d77fa8dc5b3b05db7583d2aff5f56756bc25f57f0f43edbe924dff83106e5"
 metafile = true
 
 [[files]]
