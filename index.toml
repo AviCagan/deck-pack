@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "ea07c3191498f67ca0b388aaaeafc6c9339dbffd3e6cbd1888bd9904da59c1db"
+hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "2e0c222381ffafb8ab989c83bfeed964a7e4b570203fcdf76c1a89b6bc028052"
+hash = "aecbc2f32a7a27a294519c52e2d536b6764a8c752f0cff92b5bb7eda8de7a67e"
 metafile = true
 
 [[files]]
@@ -247,11 +247,6 @@ hash = "3977a5be7d9be425a40f67324c88f8b9824872afcd637a96d2f2a8cbaee7e7d3"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
@@ -273,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
-hash = "db2ec960ce42b3d381003c82cff71e68a7c55c68117c3bf43ad2418111260065"
+hash = "8fa0f7462feaaf9cf6316db8878069424f382129d46b0733d419e9c8760e6f4b"
 metafile = true
 
 [[files]]
@@ -288,12 +283,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "d438d05c61167c95de2b282bb3839a290f819f70c9d313c5e61177d69a29c704"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "8bc79b14b3fa74bbb49550cf543a1f4b6303e8e09c1f73125a022783e9d02711"
+hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
 metafile = true
 
 [[files]]
@@ -322,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "6e0725f721dc2d38d6605e923b54da0f1634ac176f02034aa9b00caf3f015796"
+hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
 metafile = true
 
 [[files]]
@@ -361,7 +356,7 @@ hash = "02b6bae86ca2f33dc11c8af34324c6c484f1febc6649ec6b04936451590785c1"
 
 [[files]]
 file = "mods/create-escalated.pw.toml"
-hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
+hash = "528ae7ee97068e0250282f449ee8224ff6f3dfd3b66c50d7651590b43080c7a8"
 metafile = true
 
 [[files]]
@@ -433,7 +428,7 @@ hash = "69fb0433dcba1597e7fbc06b2731ebd441f8ed99e20d8ec798d852d6865d1bd7"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
+hash = "5931025bb6c50fa9064bd6c3c3ca51afb4119535bd77d8cc01b6509e53a9abc1"
 metafile = true
 
 [[files]]
@@ -609,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "047c8620059e1044e547a23cf239d8bcd182f1d9d0584131aec29df6f7c65d8b"
+hash = "812491578497cd7ce0cadb757e6cf32475cd097c80b1df9d2a3b7a3e9fd1dac6"
 metafile = true
 
 [[files]]
@@ -644,12 +639,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+hash = "1db25211349d6526378c90de2ad12284b9abb66becd4945aebf9a26d4bdbb8d9"
 metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "15d0aa0c6da198fde776ea62dc5f86ab17342d94ddb15ccb73710bf98dacfd6d"
+hash = "f652d827fc42f46bafa6ba4b044b4f7447db4909d7691517f63832ca93739b69"
 metafile = true
 
 [[files]]
@@ -712,7 +707,7 @@ hash = "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe"
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cc903ca450e9667ad5a951110f6e84f22c9e52635bf39321ca4294bc8313797e"
+hash = "6e3829e3de78efb1490e738fcc66b1ab7869d8f5a67400ca6028a001d347eebf"
 metafile = true
 
 [[files]]
@@ -787,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
+hash = "ac245e55621b2c36689db9068a9c6bfd01f98b89c66e344399a4a5a9fca209be"
 metafile = true
 
 [[files]]
@@ -842,7 +837,7 @@ hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "9828d3510390e79c136bd9269fb7d09dc4996cf26518780e2cd8f532399e26e6"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
@@ -927,7 +922,7 @@ hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "f32c7149324fcf3f99035aa22c7e06f05d73efef750f3c161a356dbf6d5c5b80"
+hash = "3e0cc54dbf26dbf27af0b38cbe714cab436c6f87cb6625c6f84952e0ee766f7a"
 metafile = true
 
 [[files]]
@@ -956,18 +951,13 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api-neoforge.pw.toml"
-hash = "7cb2156566e58df780f1e1248bc7c336fda5be86d8e5828e3485b951e3934471"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-caves.pw.toml"
-hash = "9bd04b84287a7ceaae9333f87bb4ca3741506ac7bc2851174f5bc1dd4e3dcc70"
+hash = "bdd6ae2285ff074bcd555526e4a7138b9079c9e1b9ef368dea66a598d77bca08"
 metafile = true
 
 [[files]]
