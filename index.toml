@@ -21,16 +21,16 @@ file = "mods/CreateDragonsPlus-1.11.7b.jar"
 hash = "bdad8fae41888d161b7ef59ded32d5efcf3f80dd9f19fddaad38c24b139e6ee7"
 
 [[files]]
-file = "mods/CreativeCore_NEOFORGE_v2.13.43_mc1.21.1.jar"
-hash = "267804e324812965c9b347c456067c6ed982b54148d130f7859fc5002ec97d5d"
+file = "mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar"
+hash = "016eaec4445863874b51130a146346f1d862b92f1c4168333fbc219aa1e5d328"
 
 [[files]]
-file = "mods/DoggyTalentsNext-1.21.1-1.19.0.jar"
-hash = "2ce6753c4fd9d1e0a0ab725503f26bbe2c78b1b60677be991a35eab64e43d7e1"
+file = "mods/DoggyTalentsNext-1.21.1-1.19.1.jar"
+hash = "38c8f223ecaca30297677ff828013ea27350b85517020c6bab2d16d71eb26ac0"
 
 [[files]]
-file = "mods/FarmersDelight-1.21.1-1.3.2.jar"
-hash = "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+file = "mods/FarmersDelight-1.21.1-1.3.4.jar"
+hash = "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
 
 [[files]]
 file = "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
@@ -57,16 +57,16 @@ file = "mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar"
 hash = "571feb4d223ee2b5661ed3450ea5c68db18627badcef4d59095a329fc03a7685"
 
 [[files]]
-file = "mods/ParCool-1.21.1-3.4.3.3-NF.jar"
-hash = "023774b63cbacf9f17ea6404a212ec2e4e4f9777f1b7bbaea8fbb62f3f0463db"
+file = "mods/ParCool-1.21.1-4.0.0.3.jar"
+hash = "e96bc63f2c8cefde5ebd66ebcdd0c0250cf7d3ac71fbd3d36a6f9d66b69afafc"
 
 [[files]]
-file = "mods/PlayerAnimationLibNeoforge-1.1.5+mc.1.21.1.jar"
-hash = "89460dad80da8bd7fe803e1599aee5dd07a4e28b75d4853a056c846ff838b639"
+file = "mods/PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar"
+hash = "e41ee06000fc95444a482018ec24b3f1e79eb111ca6b8ca119e61ceabf9136c5"
 
 [[files]]
-file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
-hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
+file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.8.jar"
+hash = "6eb82188cfa7aa6aa0192948c18817087229700407debf32e289bfc8ab2f1496"
 
 [[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
@@ -238,8 +238,8 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
-file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
-hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+file = "mods/copycats-3.0.8+mc.1.21.1-neoforge.jar"
+hash = "f0655f3afac3829d3cda7782f2c64e935fdd7667dda137c108dc9055fc1e5c71"
 
 [[files]]
 file = "mods/copycats-weight-tweak.pw.toml"
@@ -356,8 +356,8 @@ hash = "5625c978cee5102013e027c07d7ba815c597799a14cc447dfff63104d76b74be"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-2.5.1b.jar"
-hash = "58118219af97d27ca5f12933a3267034921231b3b08137c127963061189fdb74"
+file = "mods/create-enchantment-industry-2.5.3b.jar"
+hash = "02b6bae86ca2f33dc11c8af34324c6c484f1febc6649ec6b04936451590785c1"
 
 [[files]]
 file = "mods/create-escalated.pw.toml"
@@ -548,8 +548,8 @@ hash = "7b383e67742ddcd38461d1aad7f3cff27e97e038a19d83378b1e4f392d1036a7"
 metafile = true
 
 [[files]]
-file = "mods/fusion-1.3.12-neoforge-mc1.21.1.jar"
-hash = "17f5215648a98bcde4134577b013200dbf363273ae282449c51408ae8346f2fa"
+file = "mods/fusion-1.3.14a-neoforge-mc1.21.1.jar"
+hash = "b2c0108c4cbed865ff4e5e435506781fb47daa6249c2ee6003677bea6445af54"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -566,8 +566,8 @@ file = "mods/globalpacks-neoforge-1.21.1-21.0.6.jar"
 hash = "598781933726c596ac95a4dc960861af0746d5713a12fb8a05d4b8cef45ec48d"
 
 [[files]]
-file = "mods/gravestone-neoforge-1.21.1-1.0.38.jar"
-hash = "9aeec340571f55147bab02bdea252e25a2e6d7b27b282d12817c34090a35f945"
+file = "mods/gravestone-neoforge-1.21.1-1.0.40.jar"
+hash = "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0"
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -671,8 +671,8 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched-1.7.13-neoforge-21.1.jar"
-hash = "a90b1d485b138328ceaa156b7897b0829eb1ee1522b997870a53129ae65e5512"
+file = "mods/lithostitched-1.8.0+beta4-neoforge-21.1.jar"
+hash = "f9bed6228565d69166ac85edbe6159e28674a687562964e5424a8c8a477d20c0"
 
 [[files]]
 file = "mods/mafglib-0.4.3+mc1.21.1.jar"
@@ -703,8 +703,8 @@ hash = "31dc014c855772ad4cc907b6b93489435221c754189c00a5310ec7b59a3f7aa2"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar"
-hash = "6f367ea4002c39e3cfe27e0a0be1008880a4b35a8482a78a437cfb9d8ee38273"
+file = "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar"
+hash = "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe"
 
 [[files]]
 file = "mods/moonlight.pw.toml"
@@ -796,8 +796,8 @@ file = "mods/raidsenhanced-1.0.2-1.21.1.jar"
 hash = "8aeca14f0de4fdf2086200621013509a7e6e78e865c68cd88a09d481c21a7881"
 
 [[files]]
-file = "mods/railways-0.1.0+neoforge-mc1.21.1.jar"
-hash = "da0f0ba8d00252027914db7afce6a1115bac1244ef3ca4ff04c35f77ae9606ac"
+file = "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
+hash = "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
 
 [[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
@@ -880,8 +880,8 @@ hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore-1.21.1-1.4.87.2270.jar"
-hash = "38b647081199d433738871544832f6361221581d4da368cf8a847ff38b71aba6"
+file = "mods/sophisticatedcore-1.21.1-1.4.90.2299.jar"
+hash = "517fba2004b2ce9709507b8747bab2efa5d95dd6442cc2fbf3f779b6e2e3875a"
 
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
