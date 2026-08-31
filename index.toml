@@ -759,11 +759,6 @@ hash = "c183fb8843a6c04da0417e5d51c62b2def40b994f0e9f1176243877b104d88a8"
 metafile = true
 
 [[files]]
-file = "mods/numismatics.pw.toml"
-hash = "f0a5a2604c8d733222a25e9c19dcf443d853864ed76a388b26982be97fdea71f"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 
