@@ -437,6 +437,10 @@ hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps-1.21.1-1.1.4.jar"
+hash = "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+
+[[files]]
 file = "mods/createbigcannons-5.11.7+mc.1.21.1.jar"
 hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
 
