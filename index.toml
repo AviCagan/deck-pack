@@ -847,6 +847,10 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/selfexpression-2.22a-neoforge-1.21.1.jar"
+hash = "8d8772bb9a5b1d33916295a3f98c082a6e488196458d1924a21a1591581cad46"
+
+[[files]]
 file = "mods/shellbound_for_airship-1.0.0-neoforge.jar"
 hash = "15612c51152679ebeaad165228a31133235b9336e40905d10f2b7d5204e24626"
 
