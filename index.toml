@@ -65,10 +65,6 @@ file = "mods/PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar"
 hash = "e41ee06000fc95444a482018ec24b3f1e79eb111ca6b8ca119e61ceabf9136c5"
 
 [[files]]
-file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.8.jar"
-hash = "6eb82188cfa7aa6aa0192948c18817087229700407debf32e289bfc8ab2f1496"
-
-[[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
