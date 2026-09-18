@@ -1024,3 +1024,13 @@ metafile = true
 file = "mods/zoomlens.pw.toml"
 hash = "2eb17b149207ac27c2e9ac9bcab31919b7e5b1ce4b1965275cda18143813e99d"
 metafile = true
+
+[[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
+metafile = true
+
+[[files]]
+file = "mods/sable-cool-rain.pw.toml"
+hash = "d83497f150d4938933f135fe1b79fd34bae71b2c4e9698c41b8177537d1cef3f"
+metafile = true
