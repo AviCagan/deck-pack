@@ -1,13 +1,13 @@
 name = "ManyIdeas Doors"
-filename = "ManyIdeasDoors-1.21.1-2.0.1.jar"
+filename = "ManyIdeasDoors-1.21.1-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/B4U5vxjd/versions/iTPemriP/ManyIdeasDoors-1.21.1-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/B4U5vxjd/versions/JBynegr7/ManyIdeasDoors-1.21.1-2.0.2.jar"
 hash-format = "sha512"
-hash = "1a59b7f2afd5ec8f79b97a857b01e85a04e3b822e05cdaa895fdb54ae83a71b1094440da47d182e2201e36ca6797d270efa0114879f885c9eafd0d68d26a4db3"
+hash = "80059ecbf39ba63adeaa8872316cda0aed6391e7e0443fd3f7f8e8eb83dfb9b1ff7723bd0b6ee03b67699cdd094429b1001f8ed61229fee20d8faceeec02714c"
 
 [update]
 [update.modrinth]
 mod-id = "B4U5vxjd"
-version = "iTPemriP"
+version = "JBynegr7"

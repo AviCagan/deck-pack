@@ -1,13 +1,13 @@
 name = "Create: Northstar - Redux"
-filename = "Northstar-0.6.5+1.21.1.jar"
+filename = "Northstar-0.6.6+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UZiq3QVW/versions/DnRbB3Dp/Northstar-0.6.5%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/UZiq3QVW/versions/2xMVbJcV/Northstar-0.6.6%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "36f054dd84fb0020cbe4b4e1f46bd177f29175097081c91cb83199ca51a22b64b3b1f97b8f2c40d98d6c90c4840ce9a93d14fc50eb38c78f12403ab7fd5c447a"
+hash = "8babca6fdd67308cc5cc8f67d12b1ff1ba42a95c263ccca8c757292686b9d390cb696d016ccd4e93b584f7c193f0a04b712924e2294849be880664fae4075206"
 
 [update]
 [update.modrinth]
 mod-id = "UZiq3QVW"
-version = "DnRbB3Dp"
+version = "2xMVbJcV"

@@ -1,13 +1,13 @@
 name = "ManyIdeas Core"
-filename = "ManyIdeasCore-1.21.1-3.0.1.jar"
+filename = "ManyIdeasCore-1.21.1-3.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BBY8EPJt/versions/YekM0qfQ/ManyIdeasCore-1.21.1-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/BBY8EPJt/versions/ZTTVaXD7/ManyIdeasCore-1.21.1-3.1.0.jar"
 hash-format = "sha512"
-hash = "820fd4a5a5384f3dbba36e921733eaa10243ffc24d060cac205cdc05697d4b6b767863c2577983fb93b018ae786c4a18225eb23e3e87a1ab174b6ae6c9f9fcc6"
+hash = "a9811cd96faf1ce97911ad4dd474e51b63e07ac087984a64b0261dba1b97d2f3ba4b05cba7d5ef0684e5fed3d19dcbaed9fd72e6b6c21ababbbaf99e1742ce9d"
 
 [update]
 [update.modrinth]
 mod-id = "BBY8EPJt"
-version = "YekM0qfQ"
+version = "ZTTVaXD7"

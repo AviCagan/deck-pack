@@ -1,13 +1,13 @@
 name = "More MobGriefing Options"
-filename = "MoreMobGriefingOptions-1.21.1-3.0.1.jar"
+filename = "MoreMobGriefingOptions-1.21.1-3.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/423SG4Jc/versions/9zpMmDoj/MoreMobGriefingOptions-1.21.1-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/423SG4Jc/versions/ElBlQzD1/MoreMobGriefingOptions-1.21.1-3.0.2.jar"
 hash-format = "sha512"
-hash = "88af99cf53fc20426da17104b6a452435e8bb05feb7edb3f17657bf30021bd35b75188ac7250e4d51212bee6f26f0ccf67edd96f7d5053f1d941511682c98e43"
+hash = "f06876b786c69d435a21185490aee56e5dd32df3b25931f96b7230afe95e1d3468c88db55f6e98e7adbfdd4f4822da7d83c6f1dd64d615ca4062f19e1c921115"
 
 [update]
 [update.modrinth]
 mod-id = "423SG4Jc"
-version = "9zpMmDoj"
+version = "ElBlQzD1"
